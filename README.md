@@ -1,9 +1,8 @@
 # Beats-by-Dre-Consumer-Insights
 
-## 1. Title Page
 **Project Title:** Consumer Insights Data Analytics Externship of Beats by Dre  
 **Student Name:** Ferdinand Virtudes  
-**Date:** June 29 2024 to September 2, 2024
+**Program Date:** June 29 2024 to September 2, 2024
 
 ### Overview
 
@@ -37,5 +36,5 @@ This project analyzes Amazon reviews for Beats by Dre and competitor Bluetooth s
 
 ### Files
 
-merged_data.csv: Processed review dataset.
-Beats_Consumer_Insights.ipynb: Full analysis notebook.
+* merged_data.csv: Processed review dataset.
+* Beats_Consumer_Insights.ipynb: Full analysis notebook.
