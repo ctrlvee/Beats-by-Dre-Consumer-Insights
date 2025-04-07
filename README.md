@@ -7,6 +7,7 @@
 
 The purpose of this project is to collaborate with Beats by Dr. Dre to provide consumer insights that strengthen product development and refine strategy. Using tools like Python, EDA, sentiment analysis, and AI, the project focuses on data-driven decision-making to enhance business outcomes.
 
+The information below are key highlights of the project.
 
 Key Objectives:
 
@@ -14,6 +15,18 @@ Key Objectives:
 * Perform EDA and Sentiment Analysis: Analyze data to uncover trends and understand consumer feedback.
 * Leverage AI Tools for Deeper Insights: Utilize AI to extract meaningful themes and insights from customer reviews.
 * Develop Strategic Recommendations: Use insights to propose data-driven improvements for product and strategy.
+
+## 2. Table of Contents
+1. Introduction
+2. Data Description
+3. Exploratory Data Analysis (EDA)
+4. Sentiment Analysis
+5. AI-Generated Insights
+6. Comparative Analysis
+7. Strategic Recommendations
+8. Conclusion
+9. References
+
 
 ### 4.2 Data Collection
 Explaining the data gathering process, including any challenges faced and how they were overcome.
